@@ -1,0 +1,25 @@
+[03-Nov-2012 01:10:23] PHP Parse error:  syntax error, unexpected T_STRING in /home/u691644720/public_html/index.php on line 19
+[03-Nov-2012 01:23:24] PHP Fatal error:  Cannot access empty property in /home/u691644720/public_html/includes/phpmailer.inc.php on line 271
+[03-Nov-2012 01:24:09] PHP Fatal error:  Cannot access empty property in /home/u691644720/public_html/includes/phpmailer.inc.php on line 271
+[03-Nov-2012 01:24:28] PHP Fatal error:  Cannot access empty property in /home/u691644720/public_html/includes/phpmailer.inc.php on line 271
+[03-Nov-2012 01:24:50] PHP Fatal error:  Cannot access empty property in /home/u691644720/public_html/includes/phpmailer.inc.php on line 271
+[03-Nov-2012 01:25:16] PHP Fatal error:  Cannot access empty property in /home/u691644720/public_html/includes/phpmailer.inc.php on line 271
+[03-Nov-2012 01:25:27] PHP Fatal error:  Cannot access empty property in /home/u691644720/public_html/includes/phpmailer.inc.php on line 271
+[03-Nov-2012 01:26:57] PHP Fatal error:  Call to undefined method phpmailer::Encoding() in /home/u691644720/public_html/includes/contenido.php on line 22
+[03-Nov-2012 01:29:59] PHP Fatal error:  Cannot access empty property in /home/u691644720/public_html/includes/phpmailer.inc.php on line 271
+[03-Nov-2012 01:30:42] PHP Fatal error:  Cannot access empty property in /home/u691644720/public_html/includes/phpmailer.inc.php on line 271
+[03-Nov-2012 01:41:37] PHP Fatal error:  Class 'PHPMailer' not found in /home/u691644720/public_html/includes/contenido.php on line 29
+[04-Nov-2012 13:23:56] PHP Parse error:  syntax error, unexpected T_STRING in /home/u691644720/public_html/includes/contenido.php on line 2
+[04-Nov-2012 13:23:57] PHP Parse error:  syntax error, unexpected T_STRING in /home/u691644720/public_html/includes/contenido.php on line 2
+[04-Nov-2012 13:58:46] PHP Notice:  Undefined variable: from in /home/u691644720/public_html/includes/phpmailer.inc.php on line 259
+[04-Nov-2012 13:58:46] PHP Notice:  Undefined property: Lphpmailer::$ErrorInfo in /home/u691644720/public_html/includes/contenido.php on line 37
+[04-Nov-2012 15:34:27] PHP Notice:  Undefined variable: from in /home/u691644720/public_html/includes/phpmailer.inc.php on line 259
+[04-Nov-2012 15:34:27] PHP Notice:  Undefined property: Lphpmailer::$ErrorInfo in /home/u691644720/public_html/includes/contenido.php on line 37
+[04-Nov-2012 15:35:37] PHP Notice:  Undefined variable: from in /home/u691644720/public_html/includes/phpmailer.php on line 259
+[04-Nov-2012 15:35:37] PHP Notice:  Undefined property: Lphpmailer::$ErrorInfo in /home/u691644720/public_html/includes/contenido.php on line 37
+[04-Nov-2012 15:37:32] PHP Fatal error:  Class 'Lphpmailer' not found in /home/u691644720/public_html/includes/contenido.php on line 28
+[04-Nov-2012 15:38:09] PHP Notice:  Undefined variable: from in /home/u691644720/public_html/includes/phpmailer.inc.php on line 259
+[04-Nov-2012 15:38:09] PHP Notice:  Undefined variable: Encoding in /home/u691644720/public_html/includes/phpmailer.inc.php on line 271
+[04-Nov-2012 15:38:09] PHP Fatal error:  Cannot access empty property in /home/u691644720/public_html/includes/phpmailer.inc.php on line 271
+[04-Nov-2012 15:39:37] PHP Notice:  Undefined variable: from in /home/u691644720/public_html/includes/phpmailer.inc.php on line 259
+[04-Nov-2012 15:39:37] PHP Notice:  Undefined property: Lphpmailer::$ErrorInfo in /home/u691644720/public_html/includes/contenido.php on line 37
