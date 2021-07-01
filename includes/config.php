@@ -6,7 +6,7 @@ $config["site"]["path"]="http://".str_replace("//","/",$_SERVER["HTTP_HOST"].dir
 $config["site"]["telefono"]="(01) 123 456 789";
 $config["error"]["error_404"]="";
 
-$config["mail"]["from"]="daniel.pomalaza@yahoo.es";
-$config["mail"]["to"]="yangosinpistola@gmail.com";
+$config["mail"]["from"]="";
+$config["mail"]["to"]="";
 
 ?>
